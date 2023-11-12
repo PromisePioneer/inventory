@@ -8,7 +8,6 @@ This is a simple inventory management application built with Laravel on the back
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -65,3 +64,7 @@ Follow these steps to set up the Inventory App on your local machine:
 9. Start the development server:
    ```bash
    php artisan serve
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE). By participating in this project, you agree to abide by its terms.
